@@ -5,6 +5,11 @@
 
 Using the GUI, the parameters of the HoughLinesP algorithm can be adjusted.
 
+## Requirements
+  - OpenCV
+  - Numpy
+  - PyQt5
+ 
 ## References
   - https://www.youtube.com/watch?v=yvfI4p6Wyvk
   - https://doc.qt.io/qtforpython/
