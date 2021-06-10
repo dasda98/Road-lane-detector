@@ -1,6 +1,6 @@
 # Road lane detector
 
-![image](images/program.png)
+![image](images/program.png) 
 Using the GUI, the parameters of the HoughLinesP algorithm can be adjusted.
 ## References
   - https://www.youtube.com/watch?v=yvfI4p6Wyvk
