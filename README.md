@@ -1,5 +1,7 @@
 # Road lane detector
 
+![image](images/program.png)
+
 ## References
   - https://www.youtube.com/watch?v=yvfI4p6Wyvk
   - https://doc.qt.io/qtforpython/
